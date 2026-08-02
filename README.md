@@ -65,7 +65,7 @@ The database contains the following entities:
 
 The complete database schema is shown below.
 
-![ER Diagram](diagrams/erd.png)
+![ER Diagram](diagram/erd.png)
 
 ---
 
@@ -78,7 +78,7 @@ electronics-store-db
 │   ├── schema.sql
 │   └── seed.sql
 │
-├── diagrams
+├── diagram
 │   └── erd.png
 │
 ├── queries
